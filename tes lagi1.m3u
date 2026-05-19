@@ -1,16 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="vod" tvg-id="granbluefantasy.s01e01" tvg-name="Granblue Fantasy S01E01" group-title="Anime Series" tvg-logo="https://gbf.wiki/images/4/4f/Gbfwikilogo.png",Granblue Fantasy S01E01
+#EXTINF:-1 type="vod" tvg-type="movie" tvg-id="granblue.s01e01" tvg-name="Granblue Fantasy S01E01" group-title="VOD Series" tvg-logo="https://gbf.wiki/images/4/4f/Gbfwikilogo.png",Granblue Fantasy S01E01
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 https://www.dropbox.com/scl/fi/id2pjgarxrn4en9zz455c/AnimePahe_Granblue_Fantasy_The_Animation_Eng_Dub_-_01_BD_1080p_Headpatter.mp4?rlkey=92mcpinyi1tmccc9j7t8yf7hw&st=9mqnmn9q&raw=1
 
-#EXTINF:-1 tvg-type="vod" tvg-id="granbluefantasy.s01e02" tvg-name="Granblue Fantasy S01E02" group-title="Anime Series" tvg-logo="https://gbf.wiki/images/4/4f/Gbfwikilogo.png",Granblue Fantasy S01E02
+#EXTINF:-1 type="vod" tvg-type="movie" tvg-id="granblue.s01e02" tvg-name="Granblue Fantasy S01E02" group-title="VOD Series" tvg-logo="https://gbf.wiki/images/4/4f/Gbfwikilogo.png",Granblue Fantasy S01E02
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 https://www.dropbox.com/scl/fi/j7y0wr15pd3qutwbksqgi/AnimePahe_Granblue_Fantasy_The_Animation_Eng_Dub_-_02_BD_1080p_Headpatter.mp4?rlkey=sasb2gw07jtfx9pub3m7322m8&st=6cqmyewn&raw=1
 
-#EXTINF:-1 tvg-type="vod" tvg-id="granbluefantasy.s01e03" tvg-name="Granblue Fantasy S01E03" group-title="Anime Series" tvg-logo="https://gbf.wiki/images/4/4f/Gbfwikilogo.png",Granblue Fantasy S01E03
+#EXTINF:-1 type="vod" tvg-type="movie" tvg-id="granblue.s01e03" tvg-name="Granblue Fantasy S01E03" group-title="VOD Series" tvg-logo="https://gbf.wiki/images/4/4f/Gbfwikilogo.png",Granblue Fantasy S01E03
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 https://www.dropbox.com/scl/fi/v86k7ow72et1iiixb1sst/AnimePahe_Granblue_Fantasy_The_Animation_-_03_BD_1080p_Headpatter.mp4?rlkey=2ovt2q59euhec0cmxi4a8uw4o&st=46bcqsv0&raw=1
 
-#EXTINF:-1 tvg-type="vod" tvg-id="granbluefantasy.s01e04" tvg-name="Granblue Fantasy S01E04" group-title="Anime Series" tvg-logo="https://gbf.wiki/images/4/4f/Gbfwikilogo.png",Granblue Fantasy S01E04
+#EXTINF:-1 type="vod" tvg-type="movie" tvg-id="granblue.s01e04" tvg-name="Granblue Fantasy S01E04" group-title="VOD Series" tvg-logo="https://gbf.wiki/images/4/4f/Gbfwikilogo.png",Granblue Fantasy S01E04
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 https://www.dropbox.com/scl/fi/6bgmmk8fxo5xpzyn9xfln/AnimePahe_Granblue_Fantasy_The_Animation_-_04_BD_1080p_Headpatter.mp4?rlkey=5bvq0adjwfzipwjigk7cc7d32&st=rz5mmv2w&raw=1
 
-#EXTINF:-1 tvg-type="vod" tvg-id="granbluefantasy.s01e05" tvg-name="Granblue Fantasy S01E05" group-title="Anime Series" tvg-logo="https://gbf.wiki/images/4/4f/Gbfwikilogo.png",Granblue Fantasy S01E05
+#EXTINF:-1 type="vod" tvg-type="movie" tvg-id="granblue.s01e05" tvg-name="Granblue Fantasy S01E05" group-title="VOD Series" tvg-logo="https://gbf.wiki/images/4/4f/Gbfwikilogo.png",Granblue Fantasy S01E05
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 https://www.dropbox.com/scl/fi/ievabjmlt2b4j39k12n3z/AnimePahe_Granblue_Fantasy_The_Animation_-_05_BD_1080p_Headpatter.mp4?rlkey=gc26ng7172j0eyrljksvdnl7p&st=ja5xvu99&raw=1
